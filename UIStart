@@ -1,0 +1,15 @@
+“<div class="list">
+    <div class="item item-input-inset">
+        <label class="item-input-wrapper">
+            <input type="text" placeholder="enter todo item">
+        </label>
+        <button class="button button-small">
+            Add
+        </button>
+    </div>
+</div>
+<ul class="list">
+    <li class="item>
+        
+    </li>
+</ul>”
